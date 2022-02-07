@@ -1,0 +1,14 @@
+{
+    "logConfig": {
+        "logFolder": ".//logging//",
+        "logFile": "userslog-%DATE%.log"
+       },
+    "insertlog": {
+        "logFolder": ".//userlogs//",
+        "logFile": "insertlog.log"
+       },
+    "deletelog":{
+        "logFolder": ".//userlogs//",
+        "logFile": "deletelog.log"
+    }
+}

@@ -1,0 +1,9 @@
+2022-02-06T06:48:33.851Z  [32minfo[39m :  	Listening on port 3000...
+2022-02-06T06:48:56.013Z  [31merror[39m :  	Session expired
+2022-02-06T06:49:03.798Z  [31merror[39m :  	Topology is closed
+2022-02-06T08:37:12.198Z  [32minfo[39m :  	Listening on port 3000...
+2022-02-06T08:37:12.270Z  [31merror[39m :  	Collection already exists. NS: Exercise.users
+2022-02-06T08:42:06.630Z  [32minfo[39m :  	New user with id:61ff89de6f23ee886674b3b0 is registered
+2022-02-06T08:42:52.088Z  [32minfo[39m :  	Listening on port 3000...
+2022-02-06T08:43:57.855Z  [32minfo[39m :  	user with email: surya@gmail.com is logged in
+2022-02-06T08:44:26.032Z  [32minfo[39m :  	Get request someone called get

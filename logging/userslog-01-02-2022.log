@@ -1,0 +1,21 @@
+2022-02-01T04:20:00.578Z  [32minfo[39m :  	Listening on port 3000...
+2022-02-01T04:22:14.131Z  [31merror[39m :  	Session expired
+2022-02-01T04:22:20.074Z  [31merror[39m :  	Session expired
+2022-02-01T04:22:44.101Z  [31merror[39m :  	Session expired
+2022-02-01T04:37:53.507Z  [32minfo[39m :  	Listening on port 3000...
+2022-02-01T04:38:02.559Z  [31merror[39m :  	Session expired
+2022-02-01T04:38:32.636Z  [32minfo[39m :  	user with email: surya@gmail.com is logged in
+2022-02-01T04:38:42.591Z  [32minfo[39m :  	Get request someone called get
+2022-02-01T04:41:24.689Z  [31merror[39m :  	jwt malformed
+2022-02-01T04:43:06.220Z  [31merror[39m :  	Session expired
+2022-02-01T04:43:16.555Z  [32minfo[39m :  	user with the id:61f8ba1f55730ff62b0be403is updated
+2022-02-01T04:43:41.126Z  [33mwarn[39m :  	user with id:61f8ba1f55730ff62b0be403is deleted
+2022-02-01T04:43:53.439Z  [31merror[39m :  	Session expired
+2022-02-01T04:44:03.204Z  [32minfo[39m :  	Individual details of mail:surya@gmail.com is called
+2022-02-01T04:44:20.160Z  [32minfo[39m :  	User with email surya@gmail.com is logged out
+2022-02-01T04:44:44.693Z  [32minfo[39m :  	user with email: surya@gmail.com is logged in
+2022-02-01T04:45:11.976Z  [32minfo[39m :  	GET request of id:61f187b1af7ec6e3108b342a is called
+2022-02-01T04:45:35.397Z  [32minfo[39m :  	User with email surya@gmail.com is logged out
+2022-02-01T04:45:54.715Z  [32minfo[39m :  	user with email: johns@gmail.com is logged in
+2022-02-01T04:54:59.392Z  [32minfo[39m :  	user with email: johns@gmail.com is logged in
+2022-02-01T04:55:19.782Z  [32minfo[39m :  	user with email: suryadb.developer@gmail.com is logged in
